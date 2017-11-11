@@ -1,10 +1,10 @@
 file2 line1
-file2 line2
-file2 line3
-file2 line4
-file2 line5
-file2 line6
-file2 line7
+file2 line2	update2
+file2 line3	update3
+file2 line4	update4
+file2 line5	update5
+file2 line6	update6
+file2 line7 update7
 file2 line8
 file2 line9
 file2 line10
