@@ -1,6 +1,6 @@
-file1 line1
-file1 line2
-file1 line3
+file1 line1 update1
+file1 line2	update2
+file1 line3	update3
 file1 line4
 file1 line5
 file1 line6
